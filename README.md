@@ -1,7 +1,6 @@
 <div align = center>
 
-# Open Flow
-
+# **Open Flow**
 
 ![img](https://miro.medium.com/max/640/1*7_6fSZPtUM1_a0Z5qqUmrw.webp)
 
@@ -37,16 +36,22 @@ Agar OpenFlow dapat bekerja sesuai dengan tujuan dan fungsinya, OpenFlow mempuny
 
 </div>
 
+# Getting Started
+
+Sebelum anda mencobanya, silahkan ikuti beberapa langkah-langkah yang penulis anjurkan :
+
+1. [Mininet](/mininet/README.md)
+2. [Python-Venv](/python-env/README.md)
+3. [Ryu](https://ryu.readthedocs.io/en/latest/getting_started.html)
 
 **Refrence:**
 
-• https://www.sciencedirect.com/science/article/pii/S1389128617301470
+• <https://www.sciencedirect.com/science/article/pii/S1389128617301470>
 
-• https://overlaid.net/2017/02/15/openflow-basic-concepts-and-theory/
+• <https://overlaid.net/2017/02/15/openflow-basic-concepts-and-theory/>
 
-• http://www.fiber-optic-transceiver-module.com/openvswitch-vs-openflow-what-are-they-whats-their-relationship.html
+• <http://www.fiber-optic-transceiver-module.com/openvswitch-vs-openflow-what-are-they-whats-their-relationship.html>
 
-• https://www.opennetworking.org/sdn-definition/
+• <https://www.opennetworking.org/sdn-definition/>
 
-• http://kspviswa.github.io/OpenFlow_Version_Roadmap.html
-
+• <http://kspviswa.github.io/OpenFlow_Version_Roadmap.html>
