@@ -44,14 +44,9 @@ Sebelum anda mencobanya, silahkan ikuti beberapa langkah-langkah yang penulis an
 2. [Python-Venv](/python-env/README.md)
 3. [Ryu](https://ryu.readthedocs.io/en/latest/getting_started.html)
 
-**Refrence:**
+# Refrence
 
-• <https://www.sciencedirect.com/science/article/pii/S1389128617301470>
-
-• <https://overlaid.net/2017/02/15/openflow-basic-concepts-and-theory/>
-
-• <http://www.fiber-optic-transceiver-module.com/openvswitch-vs-openflow-what-are-they-whats-their-relationship.html>
-
-• <https://www.opennetworking.org/sdn-definition/>
-
-• <http://kspviswa.github.io/OpenFlow_Version_Roadmap.html>
+- <https://medium.com/core-network-laboratory-tech-page/berkenalan-dengan-openflow-3caca9194e51>
+- <http://mininet.org/>
+- <https://docs.python.org/3/library/venv.html>
+- <https://ryu.readthedocs.io/en/latest/getting_started.html>
