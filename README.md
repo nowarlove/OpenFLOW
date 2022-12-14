@@ -42,7 +42,7 @@ Sebelum anda mencobanya, silahkan ikuti beberapa langkah-langkah yang penulis an
 
 1. [Mininet](/mininet/README.md)
 2. [Python-Venv](/python-env/README.md)
-3. [Ryu](https://ryu.readthedocs.io/en/latest/getting_started.html)
+3. [Ryu](/ryu/README.md)
 
 # Refrence
 
