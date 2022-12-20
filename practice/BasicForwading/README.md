@@ -1,12 +1,16 @@
 # Basic Forwading
 
+author : Akbari Indra Basuki
+
 ## Hal-hal yang harus di persiapkan
+
 1. [Mininet](/mininet/README.md)
 2. [Ryu](/ryu/README.md)
 
 ![img](/practice/img/topo.png)
 
 ## Dasar-dasar OpenFlow
+
 
 ```Silahakan untuk memperiapkann program topologi dan program kontrolerny, yang mana nanti akan di jalankan bersamaan.```
 
